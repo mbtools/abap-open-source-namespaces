@@ -17,6 +17,7 @@ There are no specific requirements for the request of a new ABAP Open Source Nam
 
 | Namespace | Description | Project URL | DEMOSYSTEM development key | Repair key |
 | --------- | ----------- | ----------- | -------------------------- | --------------------- |
+| /ABAPGIT/ | Git client for ABAP | https://github.com/abapGit | 23994246593733623882 | 40091955262536808301 |
 | /APMG/ | Package Manager for ABAP | https://github.com/abapPM | 19377473852358672491 | 41813564412598342476 |
 | /ATRM/ | Transport Request Manager | https://github.com/RegestaItalia/trm-docs | 18531191373370851361 | 00211665563784583720 |
 | /AWSSAMP/ | AWS Samples | https://github.com/aws-samples | 13391533940099332908 | 39944149741907428904 |
