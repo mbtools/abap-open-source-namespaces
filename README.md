@@ -20,6 +20,8 @@ There are no specific requirements for the request of a new ABAP Open Source Nam
 | /ABAPGIT/ | Git client for ABAP | https://github.com/abapGit | 23994246593733623882 | 40091955262536808301 |
 | /APMG/ | Package Manager for ABAP | https://github.com/abapPM | 19377473852358672491 | 41813564412598342476 |
 | /ATRM/ | Transport Request Manager | https://github.com/RegestaItalia/trm-docs | 18531191373370851361 | 00211665563784583720 |
+| /AWSEX/ | AWS Example Code Library | https://github.com/awsdocs/aws-doc-sdk-examples | 14651386910339465450 | 38127449234049228390 |
+| /AWSLABS/ | AWS Labs | https://github.com/awslabs | 08687220553514260293 | 06678115934145756969 |
 | /AWSSAMP/ | AWS Samples | https://github.com/aws-samples | 13391533940099332908 | 39944149741907428904 |
 | /AWSSOL/ | AWS Solution Library | https://github.com/aws-solutions-library-samples | 08428002090177052957 | 06628540192866312031 |
 | /C2A/ | cds2alv - Generate ALV List Reports for CDS Views | https://github.com/rku-it-GmbH/cds2alv | 03688288682419678361 | 37246368571464575750 |
