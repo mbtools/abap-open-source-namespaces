@@ -30,6 +30,26 @@
     "mt_type": ""
   },
   {
+    "namespace": "/AWSEX/",
+    "role": "P",
+    "license": "14651386910339465450",
+    "editflag": "X",
+    "sscrflag": "",
+    "sapflag": "",
+    "gen_only": "",
+    "mt_type": ""
+  },
+  {
+    "namespace": "/AWSLABS/",
+    "role": "P",
+    "license": "08687220553514260293",
+    "editflag": "X",
+    "sscrflag": "",
+    "sapflag": "",
+    "gen_only": "",
+    "mt_type": ""
+  },
+  {
     "namespace": "/AWSSAMP/",
     "role": "P",
     "license": "13391533940099332908",

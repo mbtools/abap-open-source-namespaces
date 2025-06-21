@@ -18,6 +18,18 @@
     "owner": "Regesta Italia"
   },
   {
+    "namespace": "/AWSEX/",
+    "spras": "E",
+    "descriptn": "AWS Example Code Library",
+    "owner": "Amazon"
+  },
+  {
+    "namespace": "/AWSLABS/",
+    "spras": "E",
+    "descriptn": "AWS Labs",
+    "owner": "Amazon"
+  },
+  {
     "namespace": "/AWSSAMP/",
     "spras": "E",
     "descriptn": "AWS Samples",

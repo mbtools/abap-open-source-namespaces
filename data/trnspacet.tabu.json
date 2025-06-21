@@ -33,6 +33,28 @@
     "mt_type": ""
   },
   {
+    "namespace": "/AWSEX/",
+    "role": "P",
+    "replicense": "38127449234049228390",
+    "sscrflag": "",
+    "sapflag": "",
+    "gen_only": "",
+    "changeuser": "BERNARDMA",
+    "changedate": "2025-06-21",
+    "mt_type": ""
+  },
+  {
+    "namespace": "/AWSLABS/",
+    "role": "P",
+    "replicense": "06678115934145756969",
+    "sscrflag": "",
+    "sapflag": "",
+    "gen_only": "",
+    "changeuser": "BERNARDMA",
+    "changedate": "2025-06-21",
+    "mt_type": ""
+  },
+  {
     "namespace": "/AWSSAMP/",
     "role": "P",
     "replicense": "39944149741907428904",
